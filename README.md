@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · 2iFrSGAX -->
-## Notification 1/2
-Round: Round 1
-To: vfiddler@dallasstars.com, dmcgvrn@icloud.com
-At: 2026-09-16 13:38:32
-Id: 2iFrSGAX
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: kristynstew@yahoo.com, mike@blindergroup.com
+At: 2026-09-16 13:38:40
+Id: ohuofxlp
